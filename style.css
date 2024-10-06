@@ -1,0 +1,72 @@
+/* ADD YOUR CUSTOM CSS TO THIS FILE BELOW */
+
+.quattrocento-regular {
+  font-family: "Quattrocento", serif;
+  font-weight: 400;
+  font-style: normal;
+}
+
+.quattrocento-bold {
+  font-family: "Quattrocento", serif;
+  font-weight: 700;
+  font-style: normal;
+}
+
+.orbital-bold {
+font-family: "orbital", sans-serif;
+font-weight: 700;
+font-style: normal;}
+
+
+h1{ font-family: "orbital"; font-weight: bold; color: #001B48; }
+
+h2 {font-family: "orbital"; color:  #02457A }
+
+h3 {font-family: "orbital"; color: rgb(124,98,148) }
+
+body {font-family: "Quattrocento"; 
+  color: #001B48; background-color: #D6E8EE; 
+  line-height: 1.25; margin:45px; font-size: 16px; text-align:left; }
+
+.img1{margin-top: 10px; margin-left: 40px; }
+
+
+
+
+a.btn-primary:visited, a.btn-primary:link, a.btn-primary:hover, a.btn-primary:active { color: white; }
+
+
+
+a:link {color: #018ABE }
+a:visited { color: #02457A; }
+a:hover {color: #97CADB;}
+a:active {color: #97cadb}
+
+.btn-primary {
+  background-color: #001B48;
+  font-weight: 600;
+
+}
+
+.btn-primary:hover {
+  background-color: #97CADB;
+}
+
+
+
+.card-img-top {
+  height: 300px;  
+  width: 100%;    
+  object-fit: cover;  
+}
+
+.card-body {
+  text-align: center;  
+  justify-content: center;
+
+}
+
+#bannerchair {
+  padding-left: 40px;
+}
+
